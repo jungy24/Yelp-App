@@ -32,7 +32,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![yelp-app](https://user-images.githubusercontent.com/21361861/33510631-59636cda-d6dc-11e7-82c8-770b71c2d9d5.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
